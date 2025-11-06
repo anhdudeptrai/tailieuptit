@@ -1,13 +1,5 @@
 # tailieuptit
 
------
-
-Chắc chắn rồi. Tôi đã hiểu rõ. Yêu cầu của bạn là thay thế hướng dẫn tạo bảng bằng việc chỉ chạy file SQL bạn đã chuẩn bị.
-
-Dưới đây là phiên bản hướng dẫn trong file `.md` đã được chỉnh sửa, tập trung vào việc **thực thi file `tailieu.sql`** và cấu hình ứng dụng.
-
------
-
 # 🚀 Hướng dẫn Khởi động Dự án và Cấu hình Database
 
 Tài liệu này hướng dẫn cách thiết lập cơ sở dữ liệu (Database) MySQL và cấu hình kết nối trong Spring Boot để khởi động ứng dụng.
